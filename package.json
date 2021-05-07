@@ -1,0 +1,17 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "main": "src",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VibezzVR",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "tmi.js": "^1.8.3",
+    "yarn": "^1.22.10"
+  },
+  "description": ""
+}
