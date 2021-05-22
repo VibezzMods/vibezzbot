@@ -2,7 +2,16 @@
 
 --THIS IS AN EARLY STATE OF MY BOT SO IF YOU HAVE ANY FEEDBACK LET ME KNOW!--
 
-casual replies as of right now but if you say "hey, or hi" it will reply! TRY IT!
+!bsr
+!bot
+!discord
+
+--auto reply--
+hi
+hey
+hello
+bye
+goodbye
 
 
-"SIMP" AS OF RIGHT NOW IS A BANNED WORD!
+"SIMP, FOLLOWERS," OBVIOUS WORDS ARE BANNED AND WILL AUTOMATICALLY BE DELETED!
