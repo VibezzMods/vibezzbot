@@ -5,6 +5,7 @@
 !bsr
 !bot
 !discord
+!lurk
 
 --auto reply--
 hi
@@ -12,6 +13,8 @@ hey
 hello
 bye
 goodbye
+goodnight
+gn
 
 
 "SIMP, FOLLOWERS," OBVIOUS WORDS ARE BANNED AND WILL AUTOMATICALLY BE DELETED!
